@@ -19,7 +19,7 @@ public abstract class Bmw extends Car{
 	public Bmw() {}
 	@Override
 	public void accelerate() {
-		System.out.println("Tieng xe bmw");
+		System.out.println("Tieng xe bmw go bruh bruh ..........");
 	}
 	@Override
 	public String toString() {
